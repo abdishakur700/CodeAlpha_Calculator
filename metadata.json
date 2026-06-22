@@ -1,0 +1,6 @@
+{
+  "name": "ProCalc",
+  "description": "An elegant, fully-featured dark-glassmorphic calculator featuring standard and scientific calculation modes, integrated operations logs, customized brand styling, tactile synth clicking, and keyboard shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
